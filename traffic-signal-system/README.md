@@ -20,7 +20,7 @@ pip install PyQt5
 
 ### Clone Repository
 ```bash
-git clone https://github.com/yourusername/traffic-signal-system.git
+git clone https://github.com/Gauriop/Distributed-Traffic-Signal-System.git
 cd traffic-signal-system
 ```
 
